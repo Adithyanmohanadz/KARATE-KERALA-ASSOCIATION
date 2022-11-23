@@ -13691,3 +13691,13 @@ text-decoration:none;
     margin-top: 160px;
   }
 }
+
+.main-slider-respon{
+  margin-top: 220px;
+}
+
+@media (max-width:991px) {
+  .main-slider-respon{
+    margin-top: 330px;
+  }
+}
